@@ -20,6 +20,6 @@ Homepage of the MOOC: https://class.stanford.edu/courses/HumanitiesandScience/St
 
 ## Literature for Combinatorial Optimization and Graph Theory
 
-Script from Alexander Schrijver, wll-known author of several textbooks about Combinatorial Optimization
+Script from Alexander Schrijver, well-known author of several textbooks about Combinatorial Optimization
 
 http://homepages.cwi.nl/~lex/files/dict.pdf
